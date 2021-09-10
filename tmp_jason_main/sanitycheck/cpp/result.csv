@@ -1,0 +1,3 @@
+dataset,mode,val_score,test_score,time_limit,n_sample,n_feature
+1db99236-0601-4e03-b8bb-96b5eb236d74,best_quality,0.9962,0.9973,180.0,1587,41
+1db99236-0601-4e03-b8bb-96b5eb236d74,best_quality_prune,0.9962,0.9973,180.0,1587,41

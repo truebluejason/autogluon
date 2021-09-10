@@ -1,0 +1,12 @@
+dataset,mode,val_score,test_score,time_limit,n_sample,n_feature
+1db99236-0601-4e03-b8bb-96b5eb236d74,medium_quality_faster_train,0.9981,0.9969,180.0,1587,41
+20e6e8e8-a4da-4fea-a9de-c784cdf84c1f,medium_quality_faster_train,0.9614,0.9635,180.0,2247,41
+26bdceaf-13ca-4c9e-a7b3-14b98f7a35fc,medium_quality_faster_train,0.9939,0.9916,180.0,975,41
+2cbd9a22-0da1-404d-a7ba-49911840a622,medium_quality_faster_train,0.9403,0.9406,180.0,4425,41
+301ffda6-0e0f-490b-b754-d65ec3c746d7,medium_quality_faster_train,0.9609,0.9556,180.0,326,41
+3cf28e5f-886a-4ace-bebf-299e1dbde654,medium_quality_faster_train,0.9969,0.9986,180.0,1978,41
+3d18592b-8bc4-4049-8c3e-91c4615eb629,medium_quality_faster_train,1.0,0.988,180.0,402,41
+4dbb8031-56a6-43bf-9e03-40ea2affa163,medium_quality_faster_train,0.9564,0.9585,180.0,2570,41
+5729f07d-8d43-463d-894b-7dfa2da63efb,medium_quality_faster_train,0.9766,0.9778,180.0,2405,41
+5d1e3461-8b01-463c-a9db-2e4c48db1467,medium_quality_faster_train,0.9878,0.9834,180.0,1109,41
+60c60200-2341-427d-b0ec-2fc30c4bfdd8,medium_quality_faster_train,0.9838,0.9971,180.0,1218,41
